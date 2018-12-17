@@ -4,6 +4,8 @@
 
 ### macOS ###
 # General
+bin
+*.zip
 .DS_Store
 .AppleDouble
 .LSOverride
